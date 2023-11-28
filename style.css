@@ -30,7 +30,7 @@ h3:nth-child(2){
 .right{
     width: 450px;
     height: 450px;
-    background-image: url('coffee shop.jpg');
+    background-image: url('hotelimg.jpg');
     background-size:cover;
 }
 .left{
